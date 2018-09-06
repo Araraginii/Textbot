@@ -1,0 +1,11 @@
+{
+“token”: “hKTSDTL6hgvXbjh2JMwKimil7MDcjpHNctzQbjdnZonowHHFnQqneYp5KRRW5ennbYXH"
+}
+{
+“name”: “Kirā-ki-bot”,
+“version”: “1.0.0”,
+“description”: “My First Discord Bot”,
+“main”: “bot.js”,
+“author”: “Immortal k o y o m i”,
+“dependencies”: {}
+}
